@@ -1,0 +1,4 @@
+main-world: world
+weather-duration: #In ticks
+  max: 100000
+  min: 50000

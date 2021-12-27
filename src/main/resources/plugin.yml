@@ -1,0 +1,5 @@
+name: WeatherClearFix
+version: '${project.version}'
+main: dev.metastck.weatherclearfix.Main
+authors: [ metastck ]
+description: A simple plugin that fixes the /weather clear command
